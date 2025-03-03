@@ -1,0 +1,11 @@
+video {
+    width: 600px; /* Ya apni requirement ke mutabiq */
+    height: auto; /* Aspect ratio maintain karega */
+    max-width: 100%;
+  }
+
+  .video-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
